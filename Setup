@@ -1,0 +1,3 @@
+mkdir swiggy-clone && cd swiggy-clone
+npm init -y
+npm install express mongoose dotenv bcryptjs jsonwebtoken cors nodemon
